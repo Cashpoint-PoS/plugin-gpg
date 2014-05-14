@@ -1,11 +1,13 @@
 {
-	"name":"gpg",
-	"version":"git",
-	"deps":[],
-	"tables":[
-		"crm_addrs",
-		"crm_customers",
-		"crm_groups",
-		"link_crm_customers_crm_groups"
-	]	
+  "name":"gpg",
+  "version":"git",
+  "deps":[
+    
+  ],
+  "tables":[
+    "gpg_keys"
+  ],
+  "tableRevs":{
+    "gpg_keys":0
+  }
 }
