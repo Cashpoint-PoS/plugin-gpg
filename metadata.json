@@ -1,5 +1,6 @@
 {
   "name":"gpg",
+  "desc":"CashPoint GPG",
   "version":"git",
   "deps":[
     
